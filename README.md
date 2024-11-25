@@ -1,2 +1,2 @@
-# Lista
-Generador de Combos
+* GENERADOR DE COMBOS *
+* CREADO POR GIGI *
